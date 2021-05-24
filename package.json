@@ -1,12 +1,51 @@
 {
   "name": "search-engines",
   "version": "1.0.0",
-  "description": "Una aplicacion para gestionar y definir todos los search engines que uses en tu sessiones de navegacion.",
+  "description": "An application to manage and define all the search engines of the pages you want",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "author": {
+    "name": "Ricardo Torrellas",
+    "email": "ricardo.torrejas@protonmail.com",
+    "url": "https://github.com/Rick-torrellas"
+  },
+  "license": "MIT",
+  "funding": [
+    {
+      "type": "patreon",
+      "url": "https://www.patreon.com/ricardo_torrellas"
+    },
+    {
+      "type": "issuehunt",
+      "url": "https://issuehunt.io/r/rick-torrellas"
+    },
+    {
+      "type": "open_collective",
+      "url": "https://opencollective.com/ricardo-torrellas"
+    },
+    {
+      "type": "ko_fi",
+      "url": "https://ko-fi.com/ricardotorrellas"
+    },
+    {
+      "type": "otechie",
+      "url": "https://otechie.com/ricardo-torrell"
+    },
+    {
+      "type": "paypal",
+      "url": "https://www.paypal.me/ricardoTorrellas"
+    },
+  ],
+  "homepage": "https://github.com/Rick-torrellas/search-engines#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rick-torrella/search-engines"
+  },
+  "bugs": {
+    "url": "https://github.com/Rick-torrellas/search-engines/issues",
+    "email": "ricardo.torrejas@protonmail.com"
+  },
+  "keywords": [""]
 }
