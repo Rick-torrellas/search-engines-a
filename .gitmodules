@@ -1,0 +1,3 @@
+[submodule "core-server"]
+	path = core-server
+	url = https://github.com/Rick-torrellas/core-server
